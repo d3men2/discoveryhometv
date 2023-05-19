@@ -1,0 +1,2137 @@
+#EXTM3U
+#EXTINF:28,playlist.m3u8?PlaylistM3UCL
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:80,megacinetvlive.m3u8?PlaylistM3UCL
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:25,playlist.m3u8?PlaylistM3UCL
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:54,playlist.m3u8?PlaylistM3UCL
+https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
+#EXTINF:27,playlist.m3u8?PlaylistM3UCL
+https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
+#EXTINF:3,playlist.m3u8?PlaylistM3UCL
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24,playlist.m3u8?PlaylistM3UCL
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:22,playlist.m3u8?PlaylistM3UCL
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:28,playlist.m3u8?PlaylistM3UCL
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:80,cinevisionlive.m3u8?PlaylistM3UCL
+https://live.teledom.info:3713/live/cinevisionlive.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:28,playlist.m3u8?PlaylistM3UCL
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:78,ghtelevisionlive.m3u8?PlaylistM3UCL
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,chunklist_w1925216201.m3u8?PlaylistM3UCL
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+#EXTINF:10,chunklist_w1105794626.m3u8?PlaylistM3UCL
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
+#EXTINF:77,nitidatvlive.m3u8?PlaylistM3UCL
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
+#EXTINF:9,chunklist.m3u8?PlaylistM3UCL
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:75,telecaribehdlive.m3u8?PlaylistM3UCL
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
+#EXTINF:79,teleorientaldigitallive.m3u8?PlaylistM3UCL
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
+#EXTINF:24,playlist.m3u8?PlaylistM3UCL
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24,playlist.m3u8?PlaylistM3UCL
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24,playlist.m3u8?PlaylistM3UCL
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:21,playlist.m3u8?PlaylistM3UCL
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29,telenord12.m3u8?PlaylistM3UCL
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
+#EXTINF:80,play.m3u8?PlaylistM3UCL
+https://angelistic.live:3785/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:24,playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:28,playlist.m3u8?PlaylistM3UCL
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:32,playlist.m3u8?PlaylistM3UCL
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8?PlaylistM3UCL
+#EXTINF:23,chunks.m3u8?PlaylistM3UCL
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL
+#EXTINF:8,chunklist_w1921252657.m3u8?PlaylistM3UCL
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL
+#EXTINF:24,playlist.m3u8?PlaylistM3UCL
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29,playlist.m3u8?PlaylistM3UCL
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:23,index.m3u8?PlaylistM3UCL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+#EXTINF:22,index.m3u8?PlaylistM3UCL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:3,playlist.m3u8
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:366,stream.m3u8
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:120,antena7.m3u8
+https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
+#EXTINF:120,canal21.m3u8
+https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+#EXTINF:24,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+#EXTINF:28,playlist.m3u8
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+#EXTINF:31,playlist.m3u8
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
+#EXTINF:31,playlist.m3u8
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:8,playlist.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:60,prog_index.m3u8
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:60,chinolatvlive.m3u8?DVR=
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR=
+#EXTINF:28,playlist.m3u8
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:80,cinevisionlive.m3u8
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+#EXTINF:24,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+#EXTINF:22,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
+#EXTINF:19,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
+#EXTINF:20,playlist.m3u8
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:31,playlist.m3u8
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:1800,index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:30,playlist.m3u8
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:26,playlist.m3u8
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:32,playlist.m3u8
+https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
+#EXTINF:48,playlist.m3u8
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:100,playlist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+https://5790d294af2dc.streamlock.net/8128/8128/playlist.m3u8
+#EXTINF:35,playlist.m3u8
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:29,UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:30,playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+#EXTINF:28,playlist.m3u8
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:21,playlist.m3u8
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+#EXTINF:29,playlist.m3u8
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+#EXTINF:20,playlist.m3u8
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:24,hilandofino.m3u8
+https://pop-hls.iptv-global.net/loadbalancer/hilandofino.m3u8
+#EXTINF:30,playlist.m3u8
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:80,hispan.m3u8
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:28,playlist.m3u8
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:21,playlist.m3u8
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:78,iutvlive.m3u8
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:23,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+#EXTINF:22,playlist.m3u8
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:8,index.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+#EXTINF:8,playlist.m3u8
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:29,playlist.m3u8
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+#EXTINF:80,morrotvlive.m3u8
+https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
+#EXTINF:75,mun2tvlive.m3u8
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+#EXTINF:79,teleraiceslive.m3u8
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:60,nexxotvlive.m3u8
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:77,nitidatvlive.m3u8
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+#EXTINF:60,master.m3u8
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:29,playlist.m3u8
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:27,playlist.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:28,playlist.m3u8
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+#EXTINF:24,chunks.m3u8
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:60,629a63ae8df27c082901f78b.m3u8
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:10,playlist.m3u8
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:27,playlist.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:36,playlist.m3u8
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:8,playlist.m3u8
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:28,playlist.m3u8
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:88,senalestvlive.m3u8
+https://live.teledom.info:4000/live/senalestvlive.m3u8
+#EXTINF:61,sitv.m3u8
+http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:30,playlist.m3u8
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:24,index.m3u8
+https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+#EXTINF:53,playlist.m3u8
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:23,tantillas.m3u8
+https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
+#EXTINF:78,telecaribehdlive.m3u8
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+#EXTINF:80,teleorientaldigitallive.m3u8
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+#EXTINF:24,playlist.m3u8
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+#EXTINF:125,master.m3u8
+https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
+#EXTINF:29,playlist.m3u8
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:29,playlist.m3u8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
+#EXTINF:24,tsistemas.m3u8
+http://51.81.93.239:8084/hls/tsistemas.m3u8
+#EXTINF:23,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
+#EXTINF:101,teleuniversotvlive.m3u8
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:23,playlist.m3u8?fluxustv.m3u8=
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
+#EXTINF:7,index.m3u8
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:27,playlist.m3u8
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
+#EXTINF:29,playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+#EXTINF:64,teleradiohdlive.m3u8
+https://live.teledom.info:3242/live/teleradiohdlive.m3u8
+#EXTINF:66,tra45live.m3u8
+https://live.teledom.info:3625/live/tra45live.m3u8
+#EXTINF:80,megacinetvlive.m3u8
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:30,playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
+#EXTINF:125,irtp.m3u8
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
+#EXTINF:33,playlist.m3u8
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:24,index.m3u8
+https://rctvhd.net:8081/tvoromanalive/index.m3u8
+#EXTINF:24,playlist.m3u8
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
+#EXTINF:21,playlist.m3u8
+https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:8,playlist.m3u8
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:24,playlist.m3u8
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+#EXTINF:8,playlist.m3u8
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
+#EXTINF:30,playlist.m3u8
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:22,index.m3u8?PlaylistM3UCL
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+#EXTINF:32,playlist.m3u8?PlaylistM3UCL
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29,playlist.m3u8?PlaylistM3UCL
+http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:10,playlist.m3u8?PlaylistM3UCL
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:10,visiondorada.m3u8?PlaylistM3UCL
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:18,sd.m3u8?PlaylistM3UCL
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:166,tdicolombiatvlive.m3u8?PlaylistM3UCL
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?PlaylistM3UCL
+#EXTINF:24,playlist.m3u8?PlaylistM3UCL
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:48,playlist.m3u8?PlaylistM3UCL
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:28,playlist.m3u8?PlaylistM3UCL
+https://63da5f7cbffac.streamlock.net/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:28,playlist.m3u8?PlaylistM3UCL
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:45,playlist.m3u8?PlaylistM3UCL
+http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:32,playlist.m3u8?PlaylistM3UCL
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:15,playlist.m3u8?PlaylistM3UCL
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:12,veotv.m3u8?PlaylistM3UCL
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+#EXTINF:0, ES: DISNEY JUNIOR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59933
+#EXTINF:0, ES: DIVINITY
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59931
+#EXTINF:0, ES: ENERGY
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59930
+#EXTINF:0, ES: FDF
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59929
+#EXTINF:0, ES: FOX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59928
+#EXTINF:0, ES: FOX LIFE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59927
+#EXTINF:0, Movie star action
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59137
+#EXTINF:0, ES: TOROSTV HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59898
+#EXTINF:0, ES: TELECINCO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59900
+#EXTINF:0, ES: SYFY
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59901
+#EXTINF:0, ES: PARAMOUNT
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59902
+#EXTINF:0, ES: PANDA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59903
+#EXTINF:0, ES: ODISEA HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59904
+#EXTINF:0, ES: NOVA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59905
+#EXTINF:0, ES: NICKELODEON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59906
+#EXTINF:0, ES: NEOX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59907
+#EXTINF:0, ES: MOVISTAR XTRA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59908
+#EXTINF:0, ES: MOVISTAR SERIES XTRA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59909
+#EXTINF:0, ES: MOVISTAR SERIES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59910
+#EXTINF:0, ES: MOVISTAR MOTO GP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59912
+#EXTINF:0, ES: MOVISTAR GOLF
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59913
+#EXTINF:0, ES: Movistar F1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59914
+#EXTINF:0, ES: MOVISTAR ESTRENOS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59915
+#EXTINF:0, ES: MOVISTAR DCINE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59916
+#EXTINF:0, ES: MOVISTAR COMEDIA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59917
+#EXTINF:0, ES: MOVISTAR  DEPORTES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59919
+#EXTINF:0, ES: Mega
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59920
+#EXTINF:0, ES: LaLigaTV BAR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59921
+#EXTINF:0, ES: La Sexta
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59922
+#EXTINF:0, ES: LA 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59923
+#EXTINF:0, ES: LA 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59924
+#EXTINF:0, ES: HOLLYWOOD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59925
+#EXTINF:0, ES: GOL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59926
+#EXTINF:0, ES: DISNEY CHANNEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59934
+#EXTINF:0, ES: CALLE 13
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59935
+#EXTINF:0, ES: BOING
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59936
+#EXTINF:0, ES: BARCA TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59937
+#EXTINF:0, ES: beIN Sports SPAIN HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59938
+#EXTINF:0, ES: AXN WHITE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59940
+#EXTINF:0, ES: AXN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59941
+#EXTINF:0, ES: Antena 3
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59942
+#EXTINF:0, ES: ANDALUCIA TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59943
+#EXTINF:0, ES: AMC
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59944
+#EXTINF:0, ES: A&E
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59945
+#EXTINF:0, ES: #VAMOS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59946
+#EXTINF:0, ES: #O
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59947
+#EXTINF:0, ES: BOM Cine
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59949
+#EXTINF:0, ES: Canal Malaga
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59950
+#EXTINF:0, ES: Clan TVE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59951
+#EXTINF:0, ES: CNN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59952
+#EXTINF:0, ES: Decasa
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59953
+#EXTINF:0, ES: Eurosport
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59954
+#EXTINF:0, ES: Iberalia TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59955
+#EXTINF:0, ES: Intereconomia
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59956
+#EXTINF:0, MOVISTAR LIGA DE CAMPEONES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59957
+#EXTINF:0, ES: Television Melilla
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59958
+#EXTINF:0, ES: Movistar Drama
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59961
+#EXTINF:0, ES: Movistar Seriesmania
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59962
+#EXTINF:0, ES: TVE 24h
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59963
+#EXTINF:0, GOL TV OP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/141839
+#EXTINF:0, ECDF el Canal del Futbol HD OP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/151635
+#EXTINF:0, TVC
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59330
+#EXTINF:0, TELEAMAZONAS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59331
+#EXTINF:0, TC TELEVISION
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59332
+#EXTINF:0, RTU
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59333
+#EXTINF:0, RTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59334
+#EXTINF:0, OROMAR TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59335
+#EXTINF:0, GOL TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59336
+#EXTINF:0, GAMAVISION
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59337
+#EXTINF:0, ECUAVISA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59338
+#EXTINF:0, ECUADOR TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59339
+#EXTINF:0, CANELA TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59340
+#EXTINF:0, CANAL UNO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59341
+#EXTINF:0, Teleamazonas Quito
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69082
+#EXTINF:0, EC: Canal Uno SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69083
+#EXTINF:0, EC: Canela TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69084
+#EXTINF:0, EC: Ecuador TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69085
+#EXTINF:0, Ecuavisa Guayaquil HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71457
+#EXTINF:0, Esuavisa Internacional HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71458
+#EXTINF:0, EC: Gamavision HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71462
+#EXTINF:0, EC: RTS SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71467
+#EXTINF:0, EC: TC Television SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71469
+#EXTINF:0, EC: TC Television FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71470
+#EXTINF:0, Cine Vip Ecuador
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/85254
+#EXTINF:0, EC: CDF
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73269
+#EXTINF:0, ESPN Extra HD BR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146822
+#EXTINF:0, Band Sports HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146817
+#EXTINF:0, BAND HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146818
+#EXTINF:0, ESPN 3 HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146819
+#EXTINF:0, ESPN2 HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146820
+#EXTINF:0, ESPN1 HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146821
+#EXTINF:0, ESPN4 HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146823
+#EXTINF:0, FOX Sports2 HD BR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146824
+#EXTINF:0, Globo Brasilia HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/146825
+#EXTINF:0, HD | Galavision NewYork
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57325
+#EXTINF:0, HD | Galavision Miami
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57326
+#EXTINF:0, HD | Galavision Sacramento
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57327
+#EXTINF:0, HD | Univison 23 (KUVN Dallas Fort Worth)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57328
+#EXTINF:0, HD | NBC Universo HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57339
+#EXTINF:0, Galavision Dallas
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73451
+#EXTINF:0, Telemundo Los Angeles
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87805
+#EXTINF:0, Unimas los Angeles
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87806
+#EXTINF:0, Telemundo los Angeles Enc
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87808
+#EXTINF:0, Telemundo Miami
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87814
+#EXTINF:0, Univision Miami
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87815
+#EXTINF:0, Estrella TV Miami ec
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87817
+#EXTINF:0, Telemundo Miami Enc
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87819
+#EXTINF:0, Telemundo Chicago ec
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87824
+#EXTINF:0, Univision Chicago HD ec
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87825
+#EXTINF:0, Telemundo Chicago Enc
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87827
+#EXTINF:0, Univision Houston TX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87853
+#EXTINF:0, unimas HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/89800
+#EXTINF:0, Univision San Fco
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/153777
+#EXTINF:0, Telemundo San Fco
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/83130
+#EXTINF:0, US | TELEMUNDO 40 | MCALLEN TX R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126322
+#EXTINF:0, US | Telemundo 54 | Raleigh R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126323
+#EXTINF:0, US | TELEMUNDO BOSTON R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126324
+#EXTINF:0, US | TELEMUNDO DENVER R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126326
+#EXTINF:0, US | Telemundo Houston R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126327
+#EXTINF:0, US | Telemundo Laredo R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126328
+#EXTINF:0, US | TELEMUNDO LAS VEGAS R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126329
+#EXTINF:0, US: TELEMUNDO DALLAS R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126330
+#EXTINF:0, US | TELEMUNDO PHOENIX R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126331
+#EXTINF:0, US | TELEMUNDO SAN ANTONIO R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126332
+#EXTINF:0, US | TELEMUNDO SAN DIEGO |  20 KUANLD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126333
+#EXTINF:0, US | TELEMUNDO WISCONSIN R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126334
+#EXTINF:0, Univsion seattle
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/153778
+#EXTINF:0, Estrella TV Miami
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/82518
+#EXTINF:0, HD | Estrella TV (KRCA)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57338
+#EXTINF:0, HD | Univision Chicago (WGBO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57306
+#EXTINF:0, HD | Univision Green Valley (KUVE)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57308
+#EXTINF:0, HD | Univision Dallas (KUVN)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57309
+#EXTINF:0, HD | Univision New York (WXTV)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57310
+#EXTINF:0, HD | Univision Los Angeles (KMEX)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57311
+#EXTINF:0, HD | Univision Network
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57329
+#EXTINF:0, HD | Univision Miami (WLTV)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57330
+#EXTINF:0, UNIVISION CHICAGO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59102
+#EXTINF:0, Univision Phoenix
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77280
+#EXTINF:0, Univison Phoenix 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77966
+#EXTINF:0, Univision East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73302
+#EXTINF:0, HD | Telemundo San Antonio (KVDA)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57312
+#EXTINF:0, HD | Telemundo New York (WNJU)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57313
+#EXTINF:0, HD | Telemundo Connecticut (WRDM)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57314
+#EXTINF:0, HD | Telemundo 20 San Diego
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57315
+#EXTINF:0, HD | Telemundo Los Angeles (KVEA)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57316
+#EXTINF:0, HD | Telemundo Sacramento (KCSO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57317
+#EXTINF:0, HD | Telemundo Miami (WSCV)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57318
+#EXTINF:0, HD | Telemundo Chicago (WSNS)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57319
+#EXTINF:0, HD | Telemundo Orlando (WTMO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57331
+#EXTINF:0, HD | Telemundo New Orleans (KGLA)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57332
+#EXTINF:0, HD | Telemundo Boston (WNEU)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57333
+#EXTINF:0, HD | Telemundo Dallas (KXTX)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57334
+#EXTINF:0, HD | Telemundo Washington (WZDC)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57335
+#EXTINF:0, HD | Telemundo Las Vegas (KBLR)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57336
+#EXTINF:0, HD | Telemundo Tuscon (KHRR)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57337
+#EXTINF:0, HD | Telemundo San Francisco (KSTS)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57340
+#EXTINF:0, Telemundo Houston TX Enc
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87855
+#EXTINF:0, Telemundo Houston
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/76798
+#EXTINF:0, HD | Unimas Miami (WAMI)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57321
+#EXTINF:0, HD | Unimas Tucson (KFTU)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57322
+#EXTINF:0, HD | Unimas Los Angeles (KFTR)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57324
+#EXTINF:0, Unimas Miami op2k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60125
+#EXTINF:0, Unimas Denver op2k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60126
+#EXTINF:0, Universal Kids Norte
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/4550
+#EXTINF:0, NatGeo Kids
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70801
+#EXTINF:0, IN Baby tv
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68699
+#EXTINF:0, Disney Channel Mexico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2971
+#EXTINF:0, Boomerang HD Mexico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2976
+#EXTINF:0, Cartoon HD Mexico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2978
+#EXTINF:0, Baby TV Mexico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2980
+#EXTINF:0, Discovery Kids UHD Mexico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/4478
+#EXTINF:0, Disney XD UHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/4488
+#EXTINF:0, Disney Junior Latino
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/4490
+#EXTINF:0, Boomerang Norte
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/4585
+#EXTINF:0, Cartoon Network FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71485
+#EXTINF:0, MX: Disney Junior HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71757
+#EXTINF:0, AMERICA TV CUB
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59448
+#EXTINF:0, CUBAVISION INTERNACIONAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59450
+#EXTINF:0, TELEREBELDE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59451
+#EXTINF:0, PLAY CUB
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59452
+#EXTINF:0, CUBAVISION
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59453
+#EXTINF:0, TV PUBLICA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59454
+#EXTINF:0, TODO NOTICIAS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59455
+#EXTINF:0, TELEFE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59456
+#EXTINF:0, PAKA PAKA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59457
+#EXTINF:0, LN PLUS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59458
+#EXTINF:0, ENCUENTRO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59459
+#EXTINF:0, EL TRECE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59460
+#EXTINF:0, DEPORTV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59461
+#EXTINF:0, CRONICA TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59462
+#EXTINF:0, CIUDAD MAGAZINE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59463
+#EXTINF:0, CINE AR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59464
+#EXTINF:0, CANAL 9 ARG (P)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59465
+#EXTINF:0, CANAL 26 ARG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59466
+#EXTINF:0, C5N ARG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59467
+#EXTINF:0, AMERICA TELEVISION
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59468
+#EXTINF:0, A24 ARG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59469
+#EXTINF:0, AR: El Nueve
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/81335
+#EXTINF:0, DirectvSports Plus Arg
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/86570
+#EXTINF:0, TYC SPORTS ARG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71690
+#EXTINF:0, Directv Sport Arg
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
+#EXTINF:0, WWE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58628
+#EXTINF:0, WIN SPORTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58629
+#EXTINF:0, TVG2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58632
+#EXTINF:0, TVG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58633
+#EXTINF:0, TENNIS CHANNEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58650
+#EXTINF:0, SPORTSMAN CHANNEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58656
+#EXTINF:0, REDBULL TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58657
+#EXTINF:0, POP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58658
+#EXTINF:0, MLB NETWORKS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58682
+#EXTINF:0, LOGO TV- LGBT
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58685
+#EXTINF:0, GOLTV ENG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58691
+#EXTINF:0, GOLF CHANNEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58692
+#EXTINF:0, GAME SHOW NETWORK  GSN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58694
+#EXTINF:0, GAME FANTASY
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58695
+#EXTINF:0, FS2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58700
+#EXTINF:0, FS1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58701
+#EXTINF:0, FIGHT NETWORK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58720
+#EXTINF:0, CBS SPORTS NETWORK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58736
+#EXTINF:0, BEIN 1 ENG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58737
+#EXTINF:0, BT SPORT 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58769
+#EXTINF:0, Sportsnet Ontario
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/166863
+#EXTINF:0, Sportsnet Pacific
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/166864
+#EXTINF:0, ADRENALINA SPORTS HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58740
+#EXTINF:0, Tenis Channel HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71444
+#EXTINF:0, FOX SPORTS KANSAS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58703
+#EXTINF:0, FOX SOCCER PLUS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58707
+#EXTINF:0, FOX KANSAS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58709
+#EXTINF:0, FOX COLLEGE SPORTS CENTRAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58711
+#EXTINF:0, UFC  FIGHT PASS FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58631
+#EXTINF:0, MLB NETWORK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59658
+#EXTINF:0, NHL NETWORK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59659
+#EXTINF:0, NFL Network HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71771
+#EXTINF:0, THE GOLF CHANNEL HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/85876
+#EXTINF:0, ESPN U SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157736
+#EXTINF:0, Fox Sports SouthWest
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157737
+#EXTINF:0, Fox Sports Florida
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157738
+#EXTINF:0, YES Network
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157739
+#EXTINF:0, TSN Sports 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157740
+#EXTINF:0, TSN Sports 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157741
+#EXTINF:0, TSN Sports 3
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157742
+#EXTINF:0, TSN Sports 4
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157743
+#EXTINF:0, TSN Sports 5
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/157744
+#EXTINF:0, NBA TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58678
+#EXTINF:0, NBA | Sacramento Kings
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78480
+#EXTINF:0, NBA | Orlando Magic
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78481
+#EXTINF:0, NBA | New York Knicks
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78482
+#EXTINF:0, NBA | New Orleans Pelicans
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78483
+#EXTINF:0, NBA | Minnesota Timberwolves
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78484
+#EXTINF:0, NBA | Los Angeles Lakers
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78485
+#EXTINF:0, NBA | Los Angeles Clippers
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78486
+#EXTINF:0, NBA | Indiana Pacers
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78487
+#EXTINF:0, NBA | Houston Rockets
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78488
+#EXTINF:0, NBA | Golden State Warriors
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78489
+#EXTINF:0, NBA | Denver Nuggets
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78490
+#EXTINF:0, NBA | Dallas Mavericks
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78491
+#EXTINF:0, NBA | Cleveland Cavaliers
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78492
+#EXTINF:0, NBA | Brooklyn Nets
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78493
+#EXTINF:0, NBA | Utah Jazz
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78495
+#EXTINF:0, NBA | SAN ANTONIO SPURS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78496
+#EXTINF:0, NBA | Washington Wizards
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78497
+#EXTINF:0, NBA | Milwaukee Bucks
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78498
+#EXTINF:0, NBA | Detroit Pistons
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78499
+#EXTINF:0, NBA | Chicago Bulls
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78500
+#EXTINF:0, NBA | Charlotte Hornets
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78501
+#EXTINF:0, NBA | Atlanta Hawks
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78502
+#EXTINF:0, NBA | Portland Trail Blazers
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78503
+#EXTINF:0, NBA | Phoenix Suns
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78504
+#EXTINF:0, NBA | Philadelphia 76ers
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78505
+#EXTINF:0, NBA | Miami Heat
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78507
+#EXTINF:0, ADN 40 k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59965
+#EXTINF:0, Cine Dinamita
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59991
+#EXTINF:0, Multipremier Mx
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/97127
+#EXTINF:0, Azteca Trece
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126304
+#EXTINF:0, De Pelicula Classico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59048
+#EXTINF:0, EXCELSIOR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59050
+#EXTINF:0, AZTECA MUNDO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59051
+#EXTINF:0, AZTECA CORAZON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59052
+#EXTINF:0, AZTECA CLIC
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59053
+#EXTINF:0, TVE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59054
+#EXTINF:0, TV5 FRANCE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59055
+#EXTINF:0, TELECINCO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59056
+#EXTINF:0, CNN INTERNACIONAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59057
+#EXTINF:0, ARIRANG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59058
+#EXTINF:0, MORBIDO TERROR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59063
+#EXTINF:0, HBO 2 MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59064
+#EXTINF:0, HBO SIGNATURE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59065
+#EXTINF:0, HBO LATINOAMERICA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59066
+#EXTINF:0, HBO FAMILY ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59067
+#EXTINF:0, DE PELICULA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59078
+#EXTINF:0, AZTECA CINEMA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59083
+#EXTINF:0, TELEVISA MONTERREY
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59084
+#EXTINF:0, TELEFORMULA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59085
+#EXTINF:0, ONCE TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59086
+#EXTINF:0, NUEVE 9
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59087
+#EXTINF:0, MVSTv
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59088
+#EXTINF:0, MULTIMEDIOS CDMX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59089
+#EXTINF:0, LAS ESTRELLAS -2 HRS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59090
+#EXTINF:0, LAS ESTRELLAS FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59091
+#EXTINF:0, IMAGEN TELEVISION
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59092
+#EXTINF:0, FORO TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59093
+#EXTINF:0, CNN ESPAÑOL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59094
+#EXTINF:0, CANAL 5
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59095
+#EXTINF:0, AZTECA 7 HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59097
+#EXTINF:0, ADN 40
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59098
+#EXTINF:0, AZTECA UNO HD (NAT)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59101
+#EXTINF:0, AZTECA UNO FHD (MAP)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59104
+#EXTINF:0, UNICABLE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59106
+#EXTINF:0, TRUTV ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59107
+#EXTINF:0, TNT USA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59108
+#EXTINF:0, TBS1 ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59110
+#EXTINF:0, SYFY ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59111
+#EXTINF:0, HOLA TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59113
+#EXTINF:0, GLITZ ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59114
+#EXTINF:0, E! Entertaiment ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59117
+#EXTINF:0, DISTRITO COMEDIA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59118
+#EXTINF:0, AXN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59120
+#EXTINF:0, A&E ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59122
+#EXTINF:0, Las Estrellas
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59123
+#EXTINF:0, MULTIMEDIOS MONTERREY
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59124
+#EXTINF:0, TELEVISA GUADALAJARA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59125
+#EXTINF:0, TELEVISA MEXICALI
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59126
+#EXTINF:0, TELEVISA TIJUANA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59127
+#EXTINF:0, AZTECA UNO FHD (KA)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59128
+#EXTINF:0, a+
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59129
+#EXTINF:0, AZTECA UNO -2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59130
+#EXTINF:0, HBO MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59131
+#EXTINF:0, ONCE NIÑOS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59132
+#EXTINF:0, CineLatino SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59136
+#EXTINF:0, Star Cinema SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59138
+#EXTINF:0, Star Classics SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59139
+#EXTINF:0, Star Hits SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59141
+#EXTINF:0, Star Series SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59142
+#EXTINF:0, Star SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59143
+#EXTINF:0, HBO Family SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59145
+#EXTINF:0, HBO Plus SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59146
+#EXTINF:0, HBO SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59147
+#EXTINF:0, Hola! TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59148
+#EXTINF:0, Multimedios 6 + SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59149
+#EXTINF:0, Multipremier SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59150
+#EXTINF:0, Warner TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59151
+#EXTINF:0, A&E SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59152
+#EXTINF:0, ADN40 SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59153
+#EXTINF:0, Animal Planet SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59154
+#EXTINF:0, AXN SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59155
+#EXTINF:0, AzCinema SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59156
+#EXTINF:0, AzCorazon SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59157
+#EXTINF:0, Azteca 7 SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59158
+#EXTINF:0, Azteca Uno SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59159
+#EXTINF:0, BitMe SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59160
+#EXTINF:0, Canal 11 SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59162
+#EXTINF:0, Canal 5 SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59163
+#EXTINF:0, Cinecanal SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59165
+#EXTINF:0, Cinemax SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59166
+#EXTINF:0, De Pelicula SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59167
+#EXTINF:0, Las Estrellas SD (Baja Calidad)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59169
+#EXTINF:0, Foro TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59170
+#EXTINF:0, FX Movies
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59172
+#EXTINF:0, FX SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59173
+#EXTINF:0, Gala TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59174
+#EXTINF:0, Golden SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59175
+#EXTINF:0, Golden Edge SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59176
+#EXTINF:0, Golden Plus SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59177
+#EXTINF:0, History SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59178
+#EXTINF:0, Imagen TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59179
+#EXTINF:0, Lifetime SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59180
+#EXTINF:0, Sony Channel SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59183
+#EXTINF:0, SyFy SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59185
+#EXTINF:0, Teleformula SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59186
+#EXTINF:0, TNT Series SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59187
+#EXTINF:0, TruTV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59188
+#EXTINF:0, Universal Channel SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59190
+#EXTINF:0, AZTECA 7 FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59193
+#EXTINF:0, TELEMAX HERMOSILLO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59194
+#EXTINF:0, EL HERALDO TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59195
+#EXTINF:0, MILENIO NOTICIAS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59198
+#EXTINF:0, TELEVISA CD. JUAREZ
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59199
+#EXTINF:0, Canal 66 Mexicali
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59200
+#EXTINF:0, Multimedios Guadalajara
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60124
+#EXTINF:0, IZMX: azteca 1HD in
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68732
+#EXTINF:0, MULTIMEDIOS GUADALAJARA OP-2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71650
+#EXTINF:0, MTV HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70858
+#EXTINF:0, HBO 2 HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70856
+#EXTINF:0, HBO Plus HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70855
+#EXTINF:0, HBO Family HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70854
+#EXTINF:0, COMEDY CENTRAL HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70902
+#EXTINF:0, HBO MUNDI HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70897
+#EXTINF:0, ESTRELLAS HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70889
+#EXTINF:0, CANAL 5 HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70888
+#EXTINF:0, MULTIPREMIER HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70879
+#EXTINF:0, CLARO SPORTS  HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70877
+#EXTINF:0, STUDIO UNIVERSAL HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70866
+#EXTINF:0, Multimedio Laguna HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107973
+#EXTINF:0, MULTIMEDIOS MONTERREY R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126367
+#EXTINF:0, MX | AZTECA 7 HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126370
+#EXTINF:0, MX | AZTECA 7 LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126371
+#EXTINF:0, MX | AZTECA UNO LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126372
+#EXTINF:0, MX | CANAL 5 LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126373
+#EXTINF:0, MX | IMAGEN TV HD (1080p)R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126391
+#EXTINF:0, MX | INGENIO TV R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126392
+#EXTINF:0, MX | INVESTIGATION DISCOVERY LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126393
+#EXTINF:0, MX | LAS ESTRELLAS R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126394
+#EXTINF:0, MX | LAS ESTRELLAS HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126395
+#EXTINF:0, MX | LAS ESTRELLAS LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126396
+#EXTINF:0, MX | TNT SERIES LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126400
+#EXTINF:0, MX | TVP CULIACAN R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126403
+#EXTINF:0, MX | TVP LOS MOCHIS R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126404
+#EXTINF:0, PUNTO2 PR R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126405
+#EXTINF:0, Televisa Guerrero
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/132082
+#EXTINF:0, Canal 13 de Morelia
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/172736
+#EXTINF:0, TUDN HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70906
+#EXTINF:0, MEXIQUENSE TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71652
+#EXTINF:0, AZ Cinema
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71749
+#EXTINF:0, Europa Europa HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71760
+#EXTINF:0, Televisa Puebla
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73296
+#EXTINF:0, Disney JR HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70825
+#EXTINF:0, TELEMUNDO INTERNACIONAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59049
+#EXTINF:0, UNIMAS MIAMI
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59105
+#EXTINF:0, NUEVE GUERRERO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69122
+#EXTINF:0, HBO SIGNATURE HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70899
+#EXTINF:0, Banda Max K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60130
+#EXTINF:0, MTV USA K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60477
+#EXTINF:0, VH1 CLASSIC K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60478
+#EXTINF:0, VH1 K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60479
+#EXTINF:0, TELEHIT URBANOK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60480
+#EXTINF:0, REVOLT MUSIC
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60481
+#EXTINF:0, RETRO TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60482
+#EXTINF:0, MTV-U
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60483
+#EXTINF:0, MTV-2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60484
+#EXTINF:0, MTV LIVE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60485
+#EXTINF:0, MTV HITS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60486
+#EXTINF:0, MTV CLASSIC
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60487
+#EXTINF:0, MTVK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60488
+#EXTINF:0, HTVK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60489
+#EXTINF:0, CONCERT CHANNELK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60490
+#EXTINF:0, BETJAMSK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60491
+#EXTINF:0, BET HERK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60492
+#EXTINF:0, BETK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60493
+#EXTINF:0, Regional Mexicano
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131725
+#EXTINF:0, VH1 USA HD k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60476
+#EXTINF:0, TeleRitmo
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73272
+#EXTINF:0, MTV Hits op2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69101
+#EXTINF:0, MTV LIve op2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69102
+#EXTINF:0, Fight pass op2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60443
+#EXTINF:0, 19:00 pm College Football Ball St vs Tennessee
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/125461
+#EXTINF:0, BEYBLADE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131702
+#EXTINF:0, 21:00 pm  Evento Box Edgar Berlanga vs Alexis Angulo
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/91641
+#EXTINF:0, ESPN2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/92827
+#EXTINF:0, 20:00 pm  Evento Box Joet González vs Isaac Dogboe...
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/110771
+#EXTINF:0, PBR 8 Seconds of Glory: A Decade of Danger
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/135635
+#EXTINF:0, Canal Lucha Libre AAA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/147454
+#EXTINF:0, UFC FIGHT PASS K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60140
+#EXTINF:0, BOX NATION K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60141
+#EXTINF:0, WWE K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60142
+#EXTINF:0, The Mandalorian
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60459
+#EXTINF:0, Cantinflas
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60460
+#EXTINF:0, Los Locos Adams
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60462
+#EXTINF:0, El Patron del Mal k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60463
+#EXTINF:0, Xmen k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60464
+#EXTINF:0, Cine clasico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/86181
+#EXTINF:0, Cine Sureno
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/108193
+#EXTINF:0, Extranormal
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131709
+#EXTINF:0, La Familia del barrio
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131710
+#EXTINF:0, Castores Cascarravias
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/140750
+#EXTINF:0, 24/7 Aaahhh!!! Monstruos
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131689
+#EXTINF:0, Acapulco Shore
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131690
+#EXTINF:0, Digimon
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131691
+#EXTINF:0, El Mentalista
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131692
+#EXTINF:0, Hechizada
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131693
+#EXTINF:0, La Niñera
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131694
+#EXTINF:0, Los Gatos Samurai
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131695
+#EXTINF:0, Mi Bella Genio
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131696
+#EXTINF:0, Mikami la Cazafantasmas
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131697
+#EXTINF:0, 24/7 Ranma ½
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131698
+#EXTINF:0, Animaniacs
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131699
+#EXTINF:0, Avatar
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131700
+#EXTINF:0, Batman
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131701
+#EXTINF:0, Cat Dog
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131703
+#EXTINF:0, Death Note
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131704
+#EXTINF:0, Dora la exploradora
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131705
+#EXTINF:0, DR house
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131706
+#EXTINF:0, El mundo de Beakman
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131707
+#EXTINF:0, El pajaro loco
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131708
+#EXTINF:0, La familia peluche
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131711
+#EXTINF:0, La hora pico
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131712
+#EXTINF:0, LA TEORIA DEL BIG BANG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131713
+#EXTINF:0, LE TEMES A LA OSCURIDAD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131714
+#EXTINF:0, Peppa Pig
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131715
+#EXTINF:0, PHINEAS Y FERB
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131716
+#EXTINF:0, Teen Titans go
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131717
+#EXTINF:0, Tom y Jerry
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131718
+#EXTINF:0, Zoey 101
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131719
+#EXTINF:0, Familia con Chavelo
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131720
+#EXTINF:0, J K Rowling
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131721
+#EXTINF:0, Yu-Gi-Oh! Duelo de Monstuos
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131722
+#EXTINF:0, LA CASA DE MICKEY MOUSE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131723
+#EXTINF:0, Principe del Rap
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131724
+#EXTINF:0, #EXTINF:-24/7 xmen
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59520
+#EXTINF:0, #EXTINF:-24/7 twd
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59521
+#EXTINF:0, #EXTINF:-24/7 thundercats
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59522
+#EXTINF:0, #EXTINF:-24/7 terror
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59523
+#EXTINF:0, #EXTINF:-24/7 super campeones
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59524
+#EXTINF:0, #EXTINF:-24/7 strangerthings
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59525
+#EXTINF:0, #EXTINF:-24/7 spiderman
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59526
+#EXTINF:0, #EXTINF:-24/7 south Park
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59527
+#EXTINF:0, #EXTINF:-24/7 smallville
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59528
+#EXTINF:0, #EXTINF:-24/7 simpsons
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59529
+#EXTINF:0, #EXTINF:-24/7 shera
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59530
+#EXTINF:0, #EXTINF:-24/7 sailor
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59531
+#EXTINF:0, #EXTINF:-24/7 robotech
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59532
+#EXTINF:0, #EXTINF:-24/7 powerangers
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59533
+#EXTINF:0, #EXTINF:-24/7 pokemon
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59534
+#EXTINF:0, #EXTINF:-24/7 pinky
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59535
+#EXTINF:0, #EXTINF:-24/7 naruto
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59536
+#EXTINF:0, #EXTINF:-24/7 mazingerz
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59537
+#EXTINF:0, #EXTINF:-24/7 maravillosos
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59538
+#EXTINF:0, #EXTINF:-24/7 malcolm
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59539
+#EXTINF:0, #EXTINF:-24/7 luis miguel
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59540
+#EXTINF:0, #EXTINF:-24/7 he man
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59541
+#EXTINF:0, #EXTINF:-24/7 El ser de los cielos
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59542
+#EXTINF:0, #EXTINF:-24/7 El Chema
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59543
+#EXTINF:0, #EXTINF:-24/7 El Chavo del 8
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59544
+#EXTINF:0, #EXTINF:-24/7 El Chapul Colorado
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59545
+#EXTINF:0, #EXTINF:-24/7 Dragon Ball Z
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59546
+#EXTINF:0, #EXTINF:-24/7 Dragon Ball Super
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59547
+#EXTINF:0, #EXTINF:-24/7 Dragon Ball GT
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59548
+#EXTINF:0, #EXTINF:-24/7 Dinosaurios
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59549
+#EXTINF:0, #EXTINF:-24/7 DESAFIO SOBRE FUGO LATINAMERICA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59550
+#EXTINF:0, #EXTINF:-24/7 casapapel
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59551
+#EXTINF:0, #EXTINF:-24/7 caballeros del zodiaco
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59552
+#EXTINF:0, #EXTINF:-24/7 Alf 24/7
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59553
+#EXTINF:0, KENAN Y KEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68760
+#EXTINF:0, Harry Potter
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68763
+#EXTINF:0, Timon y Pymba in
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68766
+#EXTINF:0, Jonny Bravo in
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68767
+#EXTINF:0, Baron Rojo
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68771
+#EXTINF:0, Hey Arnold
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68774
+#EXTINF:0, Pocoyo
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68778
+#EXTINF:0, Mr Bean
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68779
+#EXTINF:0, Los Pica Piedra
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68783
+#EXTINF:0, CORAJE EL PERRO COBARDE (24/7) K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71668
+#EXTINF:0, RICK Y MORTY
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71669
+#EXTINF:0, UNA FAMILIA DE DIEZ
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71687
+#EXTINF:0, 24/7 | ROSA DE GUADALUPE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60496
+#EXTINF:0, Dragon Ball
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71456
+#EXTINF:0, Bob Esponja
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60461
+#EXTINF:0, BREAKING BAD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69125
+#EXTINF:0, Pajaro Loco
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69129
+#EXTINF:0, Scooby Doo
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69132
+#EXTINF:0, AR: Fox Sports Premiun
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68525
+#EXTINF:0, CH: FOX SPORTS in
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68527
+#EXTINF:0, AR: FOX SPORTS 2 in
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68529
+#EXTINF:0, Fox Milwaukee r
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78004
+#EXTINF:0, MX: Fox sports Premium opt 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/82570
+#EXTINF:0, History 2 HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70909
+#EXTINF:0, Discovery Channel Esp
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/88051
+#EXTINF:0, discovery Español
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/88054
+#EXTINF:0, Discovery Familia
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/83476
+#EXTINF:0, History En Español
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107118
+#EXTINF:0, Discovery en Espanol
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107119
+#EXTINF:0, NATIONAL GEOGRAPHIC k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59018
+#EXTINF:0, NAT GEO WILD k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59019
+#EXTINF:0, Historia K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59020
+#EXTINF:0, DISCOVERY CHANNEL k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59021
+#EXTINF:0, Cuatro K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59022
+#EXTINF:0, CRIMEN E INVESTIGACION k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59023
+#EXTINF:0, Cosmo k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59024
+#EXTINF:0, Comedia Central
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59025
+#EXTINF:0, Canal Cocina k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59026
+#EXTINF:0, Viajar k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59027
+#EXTINF:0, Ve Plus Tv k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59030
+#EXTINF:0, food network k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59031
+#EXTINF:0, EL GOURMET
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59032
+#EXTINF:0, COMEDY CENTRAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59033
+#EXTINF:0, NATGEO WILD k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59034
+#EXTINF:0, NatGeo Mx K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59035
+#EXTINF:0, NATGEO MUNDO HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59036
+#EXTINF:0, History
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59037
+#EXTINF:0, History 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59038
+#EXTINF:0, DISCOVERY WORLD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59039
+#EXTINF:0, DISCOVERY TURBO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59040
+#EXTINF:0, DISCOVERY SCIENCE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59042
+#EXTINF:0, DISCOVERY ID
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59043
+#EXTINF:0, DISCOVERY HOME & HEALTH
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59044
+#EXTINF:0, DISCOVERY CHANNEL mx k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59046
+#EXTINF:0, ANIMAL PLANET
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59047
+#EXTINF:0, Discovery Channel HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70761
+#EXTINF:0, SMITHSONIAN HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70999
+#EXTINF:0, EL NUEVE FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68964
+#EXTINF:0, EL TRECE FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68965
+#EXTINF:0, UNIVERSAL CINEMA FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68974
+#EXTINF:0, AMC FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68973
+#EXTINF:0, UNIVERSAL COMEDIA FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68975
+#EXTINF:0, UNIVERSAL CRIME FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68977
+#EXTINF:0, GOLDEN PREMIER FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68978
+#EXTINF:0, HBO FAMILY FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68979
+#EXTINF:0, STUDIO UNIVERSAL LATINO TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68981
+#EXTINF:0, SYFY CHANNEL FHD TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68982
+#EXTINF:0, CO: City Tv tvhop2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68963
+#EXTINF:0, CO: TYC SPORTS FHD HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68960
+#EXTINF:0, Movistar LIGA DE CAMPEONES  TVHOP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/69061
+#EXTINF:0, Ingenio TV HD2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71729
+#EXTINF:0, AR: ESNP QHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73349
+#EXTINF:0, ESPN2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87852
+#EXTINF:0, ESPN USA R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/88092
+#EXTINF:0, ESPN 1 Argentina
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/88093
+#EXTINF:0, ESPN Arg
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73326
+#EXTINF:0, ARG: ESPN SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/82517
+#EXTINF:0, ESPN 3 HD MX (TRI)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70829
+#EXTINF:0, ESPN 2 MX HD (TRI)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70830
+#EXTINF:0, ESPN 2 Arg
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73327
+#EXTINF:0, ESPN SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71741
+#EXTINF:0, ESPN EXTRA HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71759
+#EXTINF:0, ESPN-U (DUO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58721
+#EXTINF:0, ESPN US (DUO) #OP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58722
+#EXTINF:0, ESPN SEC NETWORK (DUO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58723
+#EXTINF:0, ESPN PLUS (DUO) #OP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58724
+#EXTINF:0, ESPN 2 US (DUO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58728
+#EXTINF:0, ESPN 2 MX (DUO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58729
+#EXTINF:0, ESPN 1 COL (DUO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58734
+#EXTINF:0, ESPN + USA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58770
+#EXTINF:0, ESPN 2 SUR FHD (DUO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58771
+#EXTINF:0, ESPN NEWS US (DUO)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/57559
+#EXTINF:0, CR: FuTV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73391
+#EXTINF:0, CR: Repretel Canal 11
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73394
+#EXTINF:0, CR: Repretel Canal 6
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73395
+#EXTINF:0, CR: Repretel Canal 4
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73396
+#EXTINF:0, TIGO SPORTS COSTA RICA HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77095
+#EXTINF:0, CR: TD +
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77096
+#EXTINF:0, CR: TD +2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77097
+#EXTINF:0, Multimedios Canal 8 HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77099
+#EXTINF:0, Canal 13 Sinart
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77102
+#EXTINF:0, TELE UNO SD k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59285
+#EXTINF:0, TELETICA SD K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59286
+#EXTINF:0, REPRETEL 6 SD K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59287
+#EXTINF:0, REPRETEL 4 SD K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59288
+#EXTINF:0, REPRETEL 11 SD K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59289
+#EXTINF:0, TD +
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131592
+#EXTINF:0, TD+ 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131593
+#EXTINF:0, Tv Sur
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131594
+#EXTINF:0, MULTIMEDIOS Canal 8
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131595
+#EXTINF:0, CANAL 6 REPRETEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131596
+#EXTINF:0, CANAL 4 REPRETEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131597
+#EXTINF:0, CANAL 14 TV SUR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131598
+#EXTINF:0, CANAL 9 COSTA RICA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131599
+#EXTINF:0, TELERED
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131600
+#EXTINF:0, FUTV Encoder
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131601
+#EXTINF:0, San Vito TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131644
+#EXTINF:0, CR: EnlaceTV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73392
+#EXTINF:0, enlace op2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73398
+#EXTINF:0, Maria Vision
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58806
+#EXTINF:0, Enlace
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58807
+#EXTINF:0, El Sembrador
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58808
+#EXTINF:0, US: TV Land (West) K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/76956
+#EXTINF:0, Universal Reality R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73322
+#EXTINF:0, HGTV East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59887
+#EXTINF:0, ANIMAL PLANET East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59888
+#EXTINF:0, BRAVO East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59889
+#EXTINF:0, IFC East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59890
+#EXTINF:0, HLN East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59891
+#EXTINF:0, E! Entertaiment US.
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59892
+#EXTINF:0, Tru TV East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59893
+#EXTINF:0, Life Time East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59894
+#EXTINF:0, FUSE East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59895
+#EXTINF:0, Outdoor HD.
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59896
+#EXTINF:0, WETV East
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59897
+#EXTINF:0, UR: Gol TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/74540
+#EXTINF:0, VTV Plus
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/74541
+#EXTINF:0, UY | Canal 12
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131860
+#EXTINF:0, UY | Canal 4
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131861
+#EXTINF:0, UY | TV CIUDAD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131862
+#EXTINF:0, UY | VTV +
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131863
+#EXTINF:0, UY | VTV HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131864
+#EXTINF:0, UY | VTV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131866
+#EXTINF:0, UY | Canal 10
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/131867
+#EXTINF:0, UY | Canal 10 OP2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/139378
+#EXTINF:0, UY | Canal 10 OP3
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/139379
+#EXTINF:0, Ven: Televen
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/77835
+#EXTINF:0, VENEVISION PLUS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59444
+#EXTINF:0, VENEVISION
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59445
+#EXTINF:0, TNT USA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78509
+#EXTINF:0, Win Sports Enc
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87834
+#EXTINF:0, TYC Sports Enc ec
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87838
+#EXTINF:0, ACC Network
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87841
+#EXTINF:0, CAZA Y PESCA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/140688
+#EXTINF:0, FISHING NETWORK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/140689
+#EXTINF:0, WORLD FISHING NETWORK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/140690
+#EXTINF:0, Motor Trend
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/83477
+#EXTINF:0, Eurosports 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/111854
+#EXTINF:0, DAZN 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/112205
+#EXTINF:0, DAZN 3
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/112206
+#EXTINF:0, DAZN 4
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/112207
+#EXTINF:0, TVC Mex
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/112208
+#EXTINF:0, Tigo Sport+ Honduras
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/112209
+#EXTINF:0, MX | AFIZZIONADOS R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126368
+#EXTINF:0, MX | AFIZZIONADOS LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126369
+#EXTINF:0, MX | ESPN 2 HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126374
+#EXTINF:0, MX | ESPN 3 R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126376
+#EXTINF:0, MX | ESPN 3 HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126377
+#EXTINF:0, MX | ESPN HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126380
+#EXTINF:0, MX | FOX SPORTS 2 R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126381
+#EXTINF:0, MX | FOX SPORTS 2 HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126382
+#EXTINF:0, MX | FOX SPORTS 2 LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126383
+#EXTINF:0, MX | FOX SPORTS 3 LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126384
+#EXTINF:0, MX | FOX SPORTS 3 MX HD (1080p) R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126385
+#EXTINF:0, MX | FOX SPORTS LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126386
+#EXTINF:0, MX | FOX SPORTS MX R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126387
+#EXTINF:0, MX | FOX SPORTS MX HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126388
+#EXTINF:0, MX | Fox Sports Premium HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126389
+#EXTINF:0, MX | FOX SPORTS PREMIUM LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126390
+#EXTINF:0, MX | TVC DEPORTES HD R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126401
+#EXTINF:0, MX | TVC DEPORTES LQ R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126402
+#EXTINF:0, Cowboy Channel Wrangler NFR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/154496
+#EXTINF:0, TVC DEPORTES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58634
+#EXTINF:0, TOROS ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58649
+#EXTINF:0, TASTEMADE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58652
+#EXTINF:0, FORMULA 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58719
+#EXTINF:0, CLARO SPORTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58735
+#EXTINF:0, BEIN  ESP
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58738
+#EXTINF:0, FUTV HD COSTA RICA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58743
+#EXTINF:0, TYC SPORTS USA INTERNACIONAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58745
+#EXTINF:0, CLARO SPORTS GUATEMALA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58753
+#EXTINF:0, MOVISTAR LA LIGA k
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58756
+#EXTINF:0, SKY SPORTS GOLF
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58772
+#EXTINF:0, TNT SPORTS ARG
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58775
+#EXTINF:0, TNT SPORTS CHL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58776
+#EXTINF:0, TNT SPORTS 2 SD CHL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58777
+#EXTINF:0, TELEDEPORTE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58799
+#EXTINF:0, Real Madrid TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58801
+#EXTINF:0, Directv Sports HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60258
+#EXTINF:0, DirectTV Sports FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60259
+#EXTINF:0, DirecTV Sports + FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60261
+#EXTINF:0, win soports ka
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68791
+#EXTINF:0, EUROSPORT 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71691
+#EXTINF:0, GOL HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71692
+#EXTINF:0, TVC DEPORTES OP-2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71693
+#EXTINF:0, THE GOLF CHANNEL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/85875
+#EXTINF:0, UNIVISION SPORTS USA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58768
+#EXTINF:0, Win Sports Plus Fhd
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71484
+#EXTINF:0, AR: Directv Soprts FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71486
+#EXTINF:0, FOX SPORTS 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58704
+#EXTINF:0, FOX SPORTS 3
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58705
+#EXTINF:0, FOX SPORTS 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58706
+#EXTINF:0, FOX DEPORTES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58710
+#EXTINF:0, CO FOX SPORTS 2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58732
+#EXTINF:0, CO FOX SPORTS 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58733
+#EXTINF:0, FOX SPORTS PREMIUM
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/58744
+#EXTINF:0, NFL NETWORK K
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/65305
+#EXTINF:0, MLB NETWORK
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78545
+#EXTINF:0, MLB | ANGELS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78547
+#EXTINF:0, MLB | BRAVES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78550
+#EXTINF:0, MLB | D-BACKS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78554
+#EXTINF:0, MLB | DODGERS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78555
+#EXTINF:0, MLB | METS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78559
+#EXTINF:0, MLB | PADRES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78562
+#EXTINF:0, MLB | YANKEES
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/78573
+#EXTINF:0, Hon: TVC HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/81493
+#EXTINF:0, Hon: TNH Tv
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/81495
+#EXTINF:0, Hon: TeleCadena
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/81496
+#EXTINF:0, Campus TV
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/140919
+#EXTINF:0, Canal 5 Hon
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/140920
+#EXTINF:0, Hon TSI
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/140922
+#EXTINF:0, TELESISTEMA HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59351
+#EXTINF:0, HCH TV HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59352
+#EXTINF:0, AZTECA HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59355
+#EXTINF:0, CANAL 11 HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59356
+#EXTINF:0, CHTV HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59357
+#EXTINF:0, CANAL 5 HD HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59358
+#EXTINF:0, CANAL 6 HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59359
+#EXTINF:0, EBENEZER HON
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59360
+#EXTINF:0, TDTV + HD (Encoder)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/62964
+#EXTINF:0, Megatv (HN)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/62966
+#EXTINF:0, PY: Tigo Sports Paraguay
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/82427
+#EXTINF:0, PY: Tigo Sport Plus
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/82428
+#EXTINF:0, Caracol Colombia Enc
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87835
+#EXTINF:0, Canal RCN Colombia Enc
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87836
+#EXTINF:0, RCN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59308
+#EXTINF:0, TELEMEDELLIN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59309
+#EXTINF:0, COSMOVISION
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59310
+#EXTINF:0, CARACOL INTERNACIONAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59311
+#EXTINF:0, TELECAFE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59312
+#EXTINF:0, CANAL CAPITAL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59313
+#EXTINF:0, CANAL 1
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59314
+#EXTINF:0, EL TIEMPO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59315
+#EXTINF:0, SEÑAL COLOMBIA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59316
+#EXTINF:0, TELECARIBE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59317
+#EXTINF:0, TELEPACIFICO
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59318
+#EXTINF:0, TELEANTIOQUIA
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59320
+#EXTINF:0, RCN NUESTRA TELE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59321
+#EXTINF:0, ENLACE COL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59322
+#EXTINF:0, EL SEMBRADOR COL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59323
+#EXTINF:0, CRISTO VISION COL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59324
+#EXTINF:0, RCN NOVELAS COL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59325
+#EXTINF:0, RCN NOTICIAS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59326
+#EXTINF:0, CARACOL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59327
+#EXTINF:0, WETV COL
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59329
+#EXTINF:0, City TV (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59854
+#EXTINF:0, History Channel (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59858
+#EXTINF:0, RCN HD (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59859
+#EXTINF:0, Win Sports (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59864
+#EXTINF:0, Directv Spots FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59867
+#EXTINF:0, ESPN 2 HD (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59869
+#EXTINF:0, CaliTV (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59881
+#EXTINF:0, Cosmovision (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59883
+#EXTINF:0, El Tiempo (#OP2)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59886
+#EXTINF:0, TELEPACIFICO tvhop2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68969
+#EXTINF:0, Co: Caracol HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71489
+#EXTINF:0, ESTADIO TNT SPORTS ENC
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/87837
+#EXTINF:0, AMC R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94208
+#EXTINF:0, Studio Universal R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94209
+#EXTINF:0, Universal TV R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94210
+#EXTINF:0, Canal Warner R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94211
+#EXTINF:0, Space R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94212
+#EXTINF:0, Paramount R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94213
+#EXTINF:0, HBO 2 R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94215
+#EXTINF:0, HBO Family R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94216
+#EXTINF:0, HBO Plus R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94217
+#EXTINF:0, HBO Signature R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94219
+#EXTINF:0, HBO Xtreme R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94220
+#EXTINF:0, Universal Premier R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94221
+#EXTINF:0, Film & Arts r
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94222
+#EXTINF:0, Cinemax R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94223
+#EXTINF:0, CineCanal R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94224
+#EXTINF:0, TNT Series R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94225
+#EXTINF:0, TNT R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94226
+#EXTINF:0, Canal Sony R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94227
+#EXTINF:0, FX R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94228
+#EXTINF:0, AXN R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94229
+#EXTINF:0, SyFy R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94230
+#EXTINF:0, Cartoon Network R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94231
+#EXTINF:0, Disney Channel R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94232
+#EXTINF:0, tonnCast R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94233
+#EXTINF:0, baby TV R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94234
+#EXTINF:0, Discovery Kids R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94235
+#EXTINF:0, Dicovery Channel R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94236
+#EXTINF:0, Discovery Science R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94237
+#EXTINF:0, Discovery Sciencen MX R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94238
+#EXTINF:0, HGTV R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94239
+#EXTINF:0, Discovery H&H R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94240
+#EXTINF:0, Animal Planet R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94241
+#EXTINF:0, History R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94242
+#EXTINF:0, History 2R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94243
+#EXTINF:0, NatGeo R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94244
+#EXTINF:0, ChileVision R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94245
+#EXTINF:0, TVN R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94246
+#EXTINF:0, Telemundo New York R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94248
+#EXTINF:0, Univision New York R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94249
+#EXTINF:0, Win Sports R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94251
+#EXTINF:0, TYC Sports R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94252
+#EXTINF:0, Peru Magico R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94254
+#EXTINF:0, Unimas R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94256
+#EXTINF:0, Telemundo Tucson R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94257
+#EXTINF:0, Telemundo San Francisco R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94258
+#EXTINF:0, Telemundo Phoenix R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94259
+#EXTINF:0, Telemundo Philadelphia R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94260
+#EXTINF:0, Telemundo LA R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94261
+#EXTINF:0, Telemundo Las Vegas R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94262
+#EXTINF:0, Telemundo Houston R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94263
+#EXTINF:0, Telemundo Dallas R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94264
+#EXTINF:0, Telemundo Chicago R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94265
+#EXTINF:0, Telemundo Boston R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94266
+#EXTINF:0, NBC Telemundo R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94267
+#EXTINF:0, Telemundo Tampa R
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94268
+#EXTINF:0, Fox Sports Premium MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/93976
+#EXTINF:0, Sky Sports 32 MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94045
+#EXTINF:0, Sky Sports 16 MX
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/94046
+#EXTINF:0, Vix
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/107167
+#EXTINF:0, NBA ON ESPN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59661
+#EXTINF:0, NBA ON FOX SPORTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59662
+#EXTINF:0, NBA ON ABC
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59663
+#EXTINF:0, MLB ON ESPN
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59665
+#EXTINF:0, NBA ON TNT
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59664
+#EXTINF:0, Mega Chile
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126305
+#EXTINF:0, TNT Sports HD (CL)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60589
+#EXTINF:0, CHILEVISION FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59292
+#EXTINF:0, CNN CHILE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59293
+#EXTINF:0, FOX SPORTS 1 CHILE FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59294
+#EXTINF:0, FOX SPORTS 2 CHILE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59295
+#EXTINF:0, TV CHILE
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59296
+#EXTINF:0, TVN FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59297
+#EXTINF:0, TV PLUS FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59298
+#EXTINF:0, REC TV SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59300
+#EXTINF:0, LA RED
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59302
+#EXTINF:0, ETC TV FHD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59303
+#EXTINF:0, CDO BASICO SD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59304
+#EXTINF:0, CDO PREMIUM
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59305
+#EXTINF:0, CANAL DE NOTICIAS 24/7 HR
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59306
+#EXTINF:0, CANAL 13
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59307
+#EXTINF:0, TNT Sports 3 HD (CL)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60594
+#EXTINF:0, CDO Premium HD (CL)
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/60598
+#EXTINF:0, TNT Sports Estadio
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73972
+#EXTINF:0, CH: La Red HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71719
+#EXTINF:0, CH: CNN op2
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71720
+#EXTINF:0, CH: Fox Sports 1 HD
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/71721
